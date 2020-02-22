@@ -1,5 +1,5 @@
 
-
+platforms that i am going to publish my works: 
     *github
         上传快下载方便
         https://github.com/yuffff/blog
@@ -16,3 +16,7 @@
         youtube 
             国内没法看
             https://studio.youtube.com/channel/UCjvCLUvWReqoEWrFcS62S9w/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
+
+techs that i need to improve the video quality 
+    screen video capturing -- ffmpeg with my scripts 
+    zr_GFPV_comm(opencv)/ zr_GFPV_cgv(avi_reader)  -- support video cutting and resizing (todo)
