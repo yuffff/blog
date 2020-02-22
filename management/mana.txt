@@ -2,10 +2,17 @@
 
     *github
         上传快下载方便
+        https://github.com/yuffff/blog
+        
     additional 
         抖音平台
-            审核快
+            审核快不好下载
+            https://media.douyin.com/#/manage
+
         微信公众号
             审核慢
+            https://mp.weixin.qq.com/cgi-bin/settingpage?t=setting/index&action=index&token=918431988&lang=zh_CN
+            
         youtube 
             国内没法看
+            https://studio.youtube.com/channel/UCjvCLUvWReqoEWrFcS62S9w/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
